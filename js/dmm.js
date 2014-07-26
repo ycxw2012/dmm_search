@@ -468,7 +468,7 @@
     var ui;
     return ui = new UI({
       'dmm': new DMM({
-        'api_id': 'evyGhvwFDvEd5AFzq05b',
+        'api_id': '',
         'affiliate_id': 'toaru-990',
         'form': $('#search')
       }),
